@@ -1,0 +1,26 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2018-01-30 12:04:22.754088",
+    "dataset_id": "20180130-111729-8979",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.0.0",
+    "framework": "caffe",
+    "id": "20180130-120422-9148",
+    "image dimensions": [
+        256,
+        256,
+        3
+    ],
+    "image resize mode": "squash",
+    "job id": "20180130-120422-9148",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "model of collected dataset with AlexNet",
+    "snapshot file": "snapshot_iter_112.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "lifeng"
+}
